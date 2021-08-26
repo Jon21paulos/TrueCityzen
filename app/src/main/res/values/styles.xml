@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="styles_textView">
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:fontFamily">@font/croissant_one</item>
+        <item name="android:padding">@dimen/padding_textView</item>
+        <item name="android:textAlignment">textStart</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="styles_button" parent="styles_textView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:backgroundTint">#FF5722</item>
+    </style>
+</resources>

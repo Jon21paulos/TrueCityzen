@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">True Cityzen</string>
+    <string name="true_button_text">True</string>
+    <string name="false_button_text">False</string>
+    <string name="prev_button_text">Prev</string>
+    <string name="next_button_text">Next</string>
+    <string name="description_image">android icon</string>
+    <string name="text_textview">your wuestion goes here</string>
+    <string name="question_declaration">The (U.S.) Declaration of Independence was Adopted in 1776.</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="question_constitution">The Supreme law of the land is the Constitution.</string>
+    <string name="question_amendments">The (U.S.) Constitution has 26 Amendments.</string>
+    <string name="question_independence_rights">
+The two rights in the Declaration of Independence are: \n \t
+<b>life</b>
+\n \t
+<b>pursuit of happiness</b>
+.
+</string>
+    <string name="question_religion">
+Freedom of religion means: \n \t
+<b>You can practice any religion, or not practice a religion</b>
+.
+</string>
+    <string name="question_government">Journalists is one branch or part of the government.</string>
+    <string name="question_government_feds">Congress does not make federal laws.</string>
+    <string name="question_government_senators">There are one hundred (100) U.S. Senators.</string>
+</resources>
